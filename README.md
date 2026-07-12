@@ -43,7 +43,7 @@ const PiyushBheda = {
 
 <p>
   <a href="https://github.com/Piyush-Bheda/WebGenAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush-Bheda&repo=WebGenAI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="WebGenAI" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Piyush-Bheda&repo=WebGenAI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="WebGenAI" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@ const PiyushBheda = {
 
 <p>
   <a href="https://github.com/Piyush-Bheda/Task-flow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush-Bheda&repo=Task-flow&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Task Flow" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Piyush-Bheda&repo=Task-flow&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Task Flow" />
   </a>
 </p>
 
@@ -110,11 +110,24 @@ const PiyushBheda = {
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Piyush-Bheda&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=cdd6f4&hide_border=false&count_private=true" height="180" alt="Piyush's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Piyush-Bheda&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=cdd6f4&hide_border=false&langs_count=8" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Piyush-Bheda&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Piyush-Bheda&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=Piyush-Bheda&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
