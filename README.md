@@ -110,20 +110,6 @@ const PiyushBheda = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Piyush-Bheda&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=cdd6f4&hide_border=false&count_private=true" height="180" alt="Piyush's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Piyush-Bheda&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=cdd6f4&hide_border=false&langs_count=8" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Piyush-Bheda&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
